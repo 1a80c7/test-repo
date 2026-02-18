@@ -1,0 +1,17 @@
+{
+  "string": "This is a text value",
+  "number": 2026,
+  "float": 99.99,
+  "boolean": true,
+  "null": null,
+  "object": {
+    "key1": "nested value",
+    "key2": 123
+  },
+  "array": [
+    "item1",
+    100,
+    { "is_nested": true },
+    null
+  ]
+}
